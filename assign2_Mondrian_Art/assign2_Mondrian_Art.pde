@@ -1,6 +1,6 @@
 size(600, 600);
+strokeWeight(10);
 
-strokeWeight(4);
 // verticals
 line(300, 0, 300, 570);  // 1st long
 line(500, 0, 500, 600);  // 2nd long
