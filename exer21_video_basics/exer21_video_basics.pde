@@ -7,7 +7,7 @@ void setup() {
   myMovie = new Movie(this, "Nora_trim.mp4"); // this object in this sketch
   myMovie.loop();
   imageMode(CENTER);
-  myMovie.volume(0); // 0 - 1
+  myMovie.volume(1); // 0 - 1
 }
 
 void draw() {
